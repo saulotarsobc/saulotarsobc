@@ -34,7 +34,7 @@
  </a>
 
  <a href="https://t.me/saulos2costa" target="_blank">
-  <img src="https://simpleicons.org/icons/telegram.svg" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
  </a>
  
  
