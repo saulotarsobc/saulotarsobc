@@ -31,6 +31,11 @@
  </a>
  <a href="https://www.linkedin.com/in/saulo-costa-331017131/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
- </a> 
+ </a>
+
+ <a href="https://t.me/saulos2costa" target="_blank">
+  <img src="https://simpleicons.org/icons/telegram.svg" target="_blank">
+ </a>
+ 
  
 </div>
