@@ -54,4 +54,4 @@
  <!-- <img src="https://github.com/saulotarsobc/saulotarsobc/blob/output/github-contribution-grid-snake.svg" alt="snake"> -->
 </div>
 
-![Snake animation](https://github.com/saulotarsobc/saulotarsobc/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/saulotarsobc/saulotarsobc/output/github-contribution-grid-snake.svg)
