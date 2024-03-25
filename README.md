@@ -52,3 +52,9 @@
  </a>
 </div>
 
+---
+
+<a href="https://github.com/saulotarsobc/">
+  <img alt="Snake Commit" src="https://github.com/saulotarsobc/saulotarsobc/blob/output/github-contribution-grid-snake.svg" />
+</a>
+
