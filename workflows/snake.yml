@@ -1,5 +1,3 @@
-name: Atualizar a cobrinha que come commits
-
 on:
   push:
     branches:
