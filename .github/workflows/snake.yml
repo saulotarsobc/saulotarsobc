@@ -7,7 +7,7 @@ name: Generate Snake
 on:
   push:
     branches:
-    - master
+    - main
 
   schedule:
   # every 6 hours
