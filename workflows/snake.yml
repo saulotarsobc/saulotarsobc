@@ -1,13 +1,11 @@
 name: Atualizar a cobrinha que come commits
 
 on:
-  schedule:
-  - cron: "0 8 * * *"
   push:
     branches:
     - main
-  workflow_dispatch:
-
+  # schedule:
+# - cron: "0 8 * * *"
 
 jobs:
   generate:
