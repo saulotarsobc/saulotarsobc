@@ -54,8 +54,7 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saulotarsobc)](https://github.com/anuraghazra/github-readme-stats)
-
-![Snake animation](https://github.com/saulotarsobc)
-
+<a href="https://github.com/saulotarsobc/">
+  <img alt="Snake Commit" src="https://github.com/saulotarsobc/saulotarsobc/blob/output/github-contribution-grid-snake.svg" />
+</a>
 
