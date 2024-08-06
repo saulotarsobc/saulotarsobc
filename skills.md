@@ -38,6 +38,8 @@
 - Swagger
 - Figma
 - Apache Echarts
+- Github
+- Github Actions
 
 ## Outros
 - Zabbix
@@ -47,5 +49,3 @@
 - Kubernets(*estudando*)
 - AI(*estudando*)
 - Criação de APIs
-- Github
-- Github Actions
