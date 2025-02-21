@@ -18,8 +18,6 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">
 </div>
-  
-  ##
  
 <div align="center">
  
@@ -51,10 +49,3 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
  </a>
 </div>
-
----
-
-<a href="https://github.com/saulotarsobc/">
-  <img alt="Snake Commit" src="https://github.com/saulotarsobc/saulotarsobc/blob/output/github-contribution-grid-snake.svg" />
-</a>
-
