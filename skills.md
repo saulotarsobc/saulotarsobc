@@ -7,37 +7,36 @@
 - SCSS
 - Typescript
 - Python
-- GO(*estudando*)
+- Golang
 - Shell Script
-- Dart(*estudando*)
 - PowerShell
 
-## Frameworks
+## Frameworks / Libraries
 - NestJS
 - NextJS
 - ReactJS
 - React Native
 - ElectronJS
-- GraphQL(*estudando*)
 
 ## Mobile
 - React Native
-- Flutter(*estudando*)
+- Expo
 
-## Bancos de Dados
+## Bancos de Dados / Cache / Message Broker
 - PostgreSQL
 - MySQL
 - MariaDB
 - MongoDB
 - SQLite
 - Redis
+- RabbitMQ
+- BullMQ
 
 ## Ferramentas
 - Postman
 - Insomnia
 - Swagger
 - Figma
-- Apache Echarts
 - Github
 - Github Actions
 
@@ -45,7 +44,5 @@
 - Zabbix
 - Grafana
 - Proxmox(PVE basic, PBS basic)
-- Criação de Frameworks JS(*estudando*)
-- Kubernets(*estudando*)
-- AI(*estudando*)
-- Criação de APIs
+- Kubernets
+- AI
