@@ -1,0 +1,74 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.removeUnusedImports": "explicit",
+    "source.addMissingImports.ts": "explicit",
+    "source.organizeImports": "explicit"
+  },
+  "chat.promptFilesRecommendations": {
+    "speckit.constitution": true,
+    "speckit.specify": true,
+    "speckit.plan": true,
+    "speckit.tasks": true,
+    "speckit.implement": true
+  },
+  "chat.tools.terminal.autoApprove": {
+    "git": true,
+    "ls": true,
+    "dir": true,
+    "npm install": true,
+    "npm run": true
+  },
+  "files.readonlyInclude": {},
+  // https://github.com/material-extensions/vscode-material-icon-theme/blob/main/images/folderIcons.png
+  // https://github.com/material-extensions/vscode-material-icon-theme/blob/main/images/fileIcons.png
+  "material-icon-theme.activeIconPack": "nest",
+  "material-icon-theme.folders.associations": {
+    "infra": "Cluster",
+    "dev": "Debug",
+    "prod": "Server",
+    "social": "Client",
+    "dto": "Typescript",
+    "dtos": "Typescript"
+  },
+  "material-icon-theme.files.associations": {
+    "nest-cli.prod.json": "Nest"
+  },
+  // https://github.com/material-extensions/vscode-material-icon-theme?tab=readme-ov-file#custom-file-icon-clones
+  // https://github.com/material-extensions/vscode-material-icon-theme/blob/main/material-colors.yml
+  "material-icon-theme.files.customClones": [
+    {
+      "name": "dtos",
+      "base": "nest",
+      "color": "orange-500",
+      "fileExtensions": ["dto.ts", "dtos.ts"]
+    },
+    {
+      "name": "schema.ts",
+      "base": "nest",
+      "color": "purple-500",
+      "fileExtensions": ["schema.ts"]
+    },
+    {
+      "name": "swagger.ts",
+      "base": "nest",
+      "color": "green-500",
+      "fileExtensions": ["swagger.ts"]
+    }
+  ],
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "git.openRepositoryInParentFolders": "always",
+  "git.suggestSmartCommit": false,
+  "github.copilot.chat.commitMessageGeneration.instructions": [
+    {
+      "file": "/.github/commit.md"
+    }
+  ],
+  "js/ts.tsdk.path": "node_modules\\typescript\\lib",
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  }
+}
